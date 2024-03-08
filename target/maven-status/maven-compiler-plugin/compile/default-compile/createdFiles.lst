@@ -1,0 +1,6 @@
+app\controller\AuthController.class
+app\service\UserService.class
+app\service\IUserRepository.class
+app\AuthServiceApplication.class
+app\model\entity\User.class
+app\controller\UserController.class
